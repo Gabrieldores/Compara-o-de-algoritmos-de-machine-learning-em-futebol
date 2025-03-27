@@ -96,17 +96,8 @@ Copy
 ├── analysis.ipynb (Jupyter Notebook com o código)  
 └── README.md (este arquivo)  
 
-🚀 Próximos Passos
-
-    Testar Redes Neurais ou XGBoost
-
-    Adicionar dados em tempo real (API de futebol)
-
-    Desenvolver uma aplicação web para previsões
 
 🔗 Repositório: GitHub
-✉️ Contato: [seu-email@exemplo.com]
+✉️ Contato: gabriellucas.dores@gmail.com
 
 📅 Última atualização: Março 2024
-
-Esse README fornece uma visão geral do projeto, destacando metodologia, resultados e possíveis melhorias. Adapte conforme necessário! ⚽📊
